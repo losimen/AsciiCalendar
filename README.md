@@ -1,4 +1,4 @@
 # AsciiCalendar
 The simple calendar which you can launch directly in your terminal.
 
-![](https://github.com/losimen/AsciiCalendar/blob/master/demo.jpg?raw=true)
+![Demo-image](https://github.com/losimen/AsciiCalendar/blob/master/demo.jpg?raw=true)
